@@ -6,5 +6,5 @@
 
 module.exports = {
   siteName: 'Gridsome Bookopoly',
-  plugins: []
+  plugins: [],
 }

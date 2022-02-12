@@ -25,7 +25,7 @@ import Gameboard from '~/components/Gameboard.vue'
 
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Bookopoly'
   },
   components: {
     Gameboard
